@@ -1,8 +1,8 @@
 body {
-  /* Box-model */
+  
   padding: 0;
 
-  /* Positioning */
+ 
   margin: 0;
   font-family: Georgia, "Times New Roman", Times, serif;
 
@@ -24,7 +24,7 @@ h1 {
   /* Box-model */
   padding: 20px 0;
 
-  /* Positioning */
+  /* */
   margin: 0;
   margin-bottom: 20px;
   font-size: 28px;
@@ -49,7 +49,7 @@ a {
   /* Box-model */
   width: 1024px;
 
-  /* Positioning */
+  /* */
   margin: 0 auto;
 }
 
@@ -72,6 +72,6 @@ a {
   width: 200px;
   height: 200px;
 
-  /* Positioning */
+  /* */
   margin-right: 20px;
 }
