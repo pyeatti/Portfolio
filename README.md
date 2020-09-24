@@ -6,11 +6,8 @@ This project is a responsive portfolio website, using bootstrap components.
 
 ## Link to Deployed
 
- https://pyeatti.github.io/
+https://pyeatti.github.io/
 
- ## NEED TO LEARN PROPER ETIQUITE FOR THE README.md DOCS ##
+## Deployed GIF
 
-![contact mobile](./deployedImages/contactSmall.png)
-![contact web](./deployedImages/contactBig.png)
-![about me mobile](./deployedImages/aboutmeSmall.png)
-![about me web](./deployedImages/aboutmeBig.png)
+![Deployed GIF](./assets/deployed.gif)
